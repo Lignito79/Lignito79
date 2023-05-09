@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lignito79
 - 👀 I’m interested in videogames and a little bit of reading
-- 🌱 I’m currently learning C#, HTML and CSS
+- 🌱 I’m currently learning Java, TypeScript, HTML and CSS
 - 📫 I’m looking to collaborate on whatever idk
 
 <!---
