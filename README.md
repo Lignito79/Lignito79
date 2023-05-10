@@ -2,7 +2,7 @@
 
 - 👀 I like to draw, listen to music, read... but most importantly in this case, video games and web development!
 
-- ✨ I know  about: HTML, CSS, JavaScript, C#, C++, Python.
+- ✨ I know  about: HTML, CSS, JavaScript, Swift, C#, C++, Python.
 
 - 🌱 I’m currently learning Java and TypeScript.
 
