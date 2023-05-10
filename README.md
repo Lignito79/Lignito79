@@ -2,7 +2,9 @@
 
 - 👀 I like to draw, listen to music, read... but most importantly in this case, video games and web development!
 
-- 🌱 I’m currently learning Java, TypeScript, HTML and CSS
+- ✨ I know  about: HTML, CSS, JavaScript, C#, C++, Python.
+
+- 🌱 I’m currently learning Java and TypeScript.
 
 <!---
 Lignito79/Lignito79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
