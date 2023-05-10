@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lignito79
+- 👋 Hi, I’m José Ángelr
 - 👀 I’m interested in videogames and a little bit of reading
 - 🌱 I’m currently learning Java, TypeScript, HTML and CSS
 - 📫 I’m looking to collaborate on whatever idk
