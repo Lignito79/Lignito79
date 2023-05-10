@@ -1,7 +1,6 @@
-- 👋 Hi, I’m José Ángelr
+- 👋 Hi, I’m José Ángel
 - 👀 I’m interested in videogames and a little bit of reading
 - 🌱 I’m currently learning Java, TypeScript, HTML and CSS
-- 📫 I’m looking to collaborate on whatever idk
 
 <!---
 Lignito79/Lignito79 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
