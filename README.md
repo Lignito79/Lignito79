@@ -1,5 +1,7 @@
-- 👋 Hi, I’m José Ángel
-- 👀 I’m interested in videogames and a little bit of reading
+- 👋 Hi, I’m José Ángel. I'm a Computer Science student at Tecnológico de Monterrey, currently at my 3rd year. 
+
+- 👀 I like to draw, listen to music, read... but most importantly in this case, video games and web development!
+
 - 🌱 I’m currently learning Java, TypeScript, HTML and CSS
 
 <!---
